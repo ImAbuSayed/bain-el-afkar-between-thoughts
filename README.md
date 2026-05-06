@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bain-el-afkar-between-thoughts/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Bain El Afkar – Between thoughts](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
