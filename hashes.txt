@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bain El Afkar – Between thoughts
+
+This log tracks the cryptographic history and versioning for the song **Bain El Afkar – Between thoughts** (bain-el-afkar-between-thoughts).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:35:30.721501 | `v1` | `3b76c02e8a2863a8fb79c125792e7497d41dcf0b3836e6e44ada175b757b073c` | `94d36fd8d94717d8f6a5d05c62a5348d9049b819095f56046faec082d162f741` | `2026-05-09_bain-el-afkar-between-thoughts-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
